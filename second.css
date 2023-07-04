@@ -657,7 +657,7 @@ border: none;
     .d1{
         position: absolute;
         top: 50px;
-        left: 75px;
+        left: 150px;
     }
     .d2{
         position: absolute;
@@ -666,7 +666,7 @@ border: none;
         background-color: white;
         border-radius: 10px;
         top: 420px;
-        left: 75px;
+        left: 150px;
     }
     .s1 {
         width: 220px;
@@ -720,7 +720,7 @@ border: none;
         height: 50px;
         border-radius: 5px;
         top: 1108px;
-        left: 75px;
+        left: 150px;
     }
     #a3{
         font-size:20px;
@@ -758,7 +758,7 @@ border: none;
         color: white;
         position: absolute;
         top: 1190px;
-        left: 75px;    
+        left: 150px;    
         background-image: linear-gradient(to right,#9140B5,#F25CFE);
         font-size: 20px; 
         border-radius: 4px;
@@ -810,7 +810,7 @@ border: none;
         border: 2px #3D087B solid;
         background-color:#3D087B;
         top: 1180px;
-        left:290px;
+        left:365px;
         
        
       }
@@ -872,7 +872,7 @@ border: none;
         width: 450px;
        
         top: 150px; 
-        left: 75px; 
+        left: 150px; 
     }
     .n4{
         position: absolute; 
@@ -999,7 +999,7 @@ border: none;
        width:450px ;
        height: 350px; 
         position: absolute;
-        left: 75px;
+        left: 150px;
         top: 750px; 
         
         border-radius: 10px; 
